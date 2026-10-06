@@ -33,3 +33,6 @@ All rights, titles, and interests in and to the materials remain exclusively wit
 For licensing or authorized access inquiries, contact: SpencerSouthern12@gmail.com
 
 This repository uses the SSPS continuity framework. Older vaults may contain earlier protection notices; all rights remain reserved under both the original notices and this unified protection standard.
+
+Research Notice:
+This material reflects ongoing research and is provided for informational purposes. It does not represent final results, established standards, or professional advice. Findings may change as additional data and review occur.
